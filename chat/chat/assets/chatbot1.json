@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fitness-pal-gefxte",
+  "private_key_id": "8b25dc83f2e515ca07d10ba24dfa094b180c52e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMIyhqlxhYBrSz\nNSfrDi5hS71Hvac/aosZ/50y4SZsa22Pj5Dji7AtmZXJJsGCHKmgqmkfSOTktPdi\nqNx63IC/x4E3ZWzCvWFy/gcjv9++C90+2hHasB5eqsF4IHo4AW/3rg4ncIQ3weBG\n3UkFQznJwM5bQcGsD2UOVs/IYg31Oo8e/eL6hOk6Fy0KGqUBBSbMmUg7fz/Gc+gq\nrQUNNDHN/wUTSkcsWSYmBS/Q0RmmHydmNHO2y379w1rS3TSSV/xHlL3LfGhcTgBd\nlgSNkV6OuQ2l5De6ublSHfDgbl2ug3d0QfSSMZI6F06W4wmgkpIj1Xw8WLZbbBzT\nhlsF42rNAgMBAAECggEADIS/bsHzUTqgDDlfSE/nUjol0md0ATSUcTS2vC8Ify+b\nWWlxdjLTzAgWIm7JASSm1l588dkziD78yMUYOESbdKdUakRDBjI87qNbZrrWir4J\nhFg1LhcM1btc//Pl6tdTuXmoDo0c3pp6GX5qgvMbcR7syLXgnZ+YD+gM9/njZz1j\nCDqpdsAmmp2U2WxhpjowEivMLf++X8fBLNGTCnl25kVSul8BVrXJ8dZjpWcvmyG2\n8nIZPWMqNRGheXRZAO8oYGPjaDyfi1SmrzL5hLX0UZSN44L2wNFRcN/TJGBTQX1J\nTHTW2NMXuDFAHGo9U4/nlCnr2YyTPOZ4Rkvh9QV4NQKBgQDtvDnIWjvlnCBbMRZQ\nBnk1tFlocxAACWPWpKbQgNsGwB6toOkalTTz8gr9pQ4SUNSNyFFFxhAGUZYezsME\naw9f3l78aMpzoASqRz6DXiw1P/0gvBaR7eEO1kjuwUde4LT/HoG4HdVb9BIpacPc\ngDDMvbGmfnRVuKa/z3OmU7VH+wKBgQDb0iDuRDQI+4Yb/cFx7BkDOcNCdpaXGRjs\n3Gn24tE2ypkAIxfgfXaUMYkaK5TY8PKQsFtVNfIV/YdU6pIqNi21+4GReiJEvg67\n0lWs5tBMbzpVwU0W4IY5mX+GeN9LooV8fd8cLmycfWAFqtaT4hI0OmlkRERBdR5W\naAEb9Kc11wKBgQDbunX5rRThUt1BC+ygiGstbQSaGoc2UXd6ovIfkoleAuIX/rqU\nvEWWFyd7ajvIR/c9GGGtyLN086F51ga/pagvJpvKVZyRI9xL+c9YogjgKsVtpQqD\nVEcIbJw6OGAb3DrN9cdVghV6iOrkZgIGYmE4SzfQN96UgDd232n32DScUwKBgEuB\nVtxgwvre4obU19B4x3KrMZ2vvDQ0Y7JgV2l9KV3Ho1w/saDjl4p5pV0+4QbPZJI8\ncXLIb9oL1qNdW01yhKsAs9WzfPfdzJPJQLJ+KchHYGM6XW9hOdmpFvuqoxCIx48m\ncS9t5tKt4gCwWLo9KgGUmsTdChDt2LjXSqI+m/zLAoGAN00XFXxtTesOriYjUATq\n2Nbv7vYyWLYRLaL1dlk1PxID3LDyvldkihR21UdV9fkyXXulOG64grfKJVbJI6uQ\nnSGVQPnb+a+5g2f61LUtv0VBJdE3EQNd7+C9TbKFIT6JR0iAKwLfTQ4d8VSvnFw3\n2krqOE2HynOtv0JPSny6nr8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-pbheld@fitness-pal-gefxte.iam.gserviceaccount.com",
+  "client_id": "103182608657125745857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-pbheld%40fitness-pal-gefxte.iam.gserviceaccount.com"
+}
